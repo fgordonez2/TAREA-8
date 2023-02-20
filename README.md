@@ -67,16 +67,101 @@ los temas propuestos:
 ![image](https://user-images.githubusercontent.com/104925648/220002624-8b0a3865-f2e2-4412-8998-3034e3349a47.png)
 
 ># 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
-# Resolución de ejercicios pares *CAPITULO 13*:
+# Resolución de ejercicios pares *CAPITULO 15*:
 
 ## Autoevaluación:
 
-2.Una inductancia de 0.33 mH es más pequeña que
+2.En el plano complejo, el número 3 + j4 se localiza en el
 
-- a) 33 uH
-- b) 330 uH
-- c) 0.05 mH
-- **d) 0.0005 H** ←
+- **a) primer cuadrante** ←
+- b) segundo cuadrante
+- c) tercer cuadrante
+- d) cuarto cuadrante
+
+![image](https://user-images.githubusercontent.com/104925648/220006849-7ff3d23d-31a8-4368-a14d-d93fbe9fb31b.png)
+
+4.El número complejo 5 1 j5 equivale a 
+
+- a) 5∠45°
+- b) 25∠0°
+- **c) 7.07∠45°** ←
+- d) 7.07∠135°
+
+![image](https://user-images.githubusercontent.com/104925648/220007937-a4b53d00-0402-4937-9868-31c09784206c.png)
+
+6.(4+j7)+(-2+j9) es igual a:
+
+- **a) 2+j16** ←
+- b) 11+j11
+- c) -2+j16
+- d) 2-j2
+
+![image](https://user-images.githubusercontent.com/104925648/220008272-f44773fd-6c69-4fe1-9a07-c4ca6aab508c.png)
+
+8.(5∠45°)(2∠20°) es igual a:
+
+- a) 7∠65°
+- b) 10∠25°
+- **c) 10∠65°** ←
+- d) 7∠25°
+
+![image](https://user-images.githubusercontent.com/104925648/220009076-11a3536b-346b-44bf-8c55-e0eaec2db374.png)
+
+10.En un circuito RC en serie, el voltaje entre los extremos de la resistencia está
+
+- a) en fase con el voltaje de fuente
+- b) retrasado en 90° con respecto al voltaje de fuente
+- **c) en fase con la corriente** ←
+- d) retrasado en 90° con respecto a la corriente
+
+12.Cuando se incrementa la frecuencia del voltaje aplicado a un circuito RC en serie, la impedancia
+
+- a) aumenta
+- **b) disminuye** ←
+- c) no cambia
+- d) se duplica
+
+14.En un circuito RC en serie, cuando la frecuencia y la resistencia se duplican, la impedancia
+
+- a) también se duplica
+- b) se reduce a la mitad
+- c) se cuadruplica 
+- **d) no se puede determinar sin valores** ←
+
+16.Se miden los voltajes de la pregunta 15 a cierta frecuencia. Para hacer que el voltaje a través del resistor sea 
+mayor que el voltaje a través del capacitor, la frecuencia
+
+- **a) debe incrementarse** ←
+- b) debe reducirse 
+- c) debe mantenerse constante 
+- d) no tiene ningún efecto
+
+18.Para reducir el ángulo de fase a menos de 45°, debe existir la siguiente condición:
+
+- a) R=Xc
+- b) R<Xc
+- **c) R>Xc** ←
+- d) R=10Xc
+ 
+ 20.En un circuito RC en paralelo, a través de la rama resistiva circula 1 A rms y 1 A rms pasa por la rama
+capacitiva. La corriente rms total es
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Exámen rápido de dinámica de circuitos
 
