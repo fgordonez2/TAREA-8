@@ -282,8 +282,21 @@ Consulte la figura 15-103.
 12.Identifique el cuadrante en el cual se localiza cada uno de los puntos del problema 10.
 
 - a) 10∠120° → **Segundo Cuadrante**
-- b) 32∠85° → Primer Cuadrante**
-- c) 5∠310° → Cuarto Cuaddrante**
+- b) 32∠85° → **Primer Cuadrante**
+- c) 5∠310° → **Cuarto Cuaddrante**
+ 
+14.Sume los siguientes conjuntos de números complejos:
+
+- a) 9+j3 y 5+j8
+- b) 3.5-j4 y 2.2+j6
+- c) -18+j23 y 30-j15
+- d) 12∠45° y 20∠32°
+- e) 3.8∠75° y 1+j1.8
+- f) 50-j39 y 60∠ -30°
+ 
+![image](https://user-images.githubusercontent.com/104925648/220214756-f001999e-b976-43a1-b318-c1845715b0c1.png)
+
+ 16.
 
 
 
