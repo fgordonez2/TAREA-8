@@ -247,7 +247,43 @@ Consulte la figura 15-103.
 ![image](https://user-images.githubusercontent.com/104925648/220011715-215f20c1-6aa3-48c6-83f2-642b765cd146.png)
 
 4.Determine las coordenadas de cada punto que tenga igual magnitud pero esté localizado a 180° de cada uno de los puntos del problema 3.
- 
+
+- a) 3,j5
+- b) -7,j1
+- c) -10,j10
+
+![image](https://user-images.githubusercontent.com/104925648/220211657-240770c1-e8a5-4e8b-8871-d2790b25321a.png)
+
+6.A continuación se describen puntos localizados en el plano complejo. Exprese cada punto como un número complejo en forma rectangular
+
+- a) 3 unidades a la derecha del origen sobre el eje real, y 5 unidades hacia arriba sobre el eje j.
+- b) 2 unidades a la izquierda del origen sobre el eje real, y 1.5 unidades hacia arriba sobre el eje j.
+- c) 10 unidades a la izquierda del origen sobre el eje real, y 14 unidades hacia abajo sobre el eje 2j.
+
+![image](https://user-images.githubusercontent.com/104925648/220212370-5e6afec1-0504-41cc-9e72-70be15bda971.png)
+
+8.Convierta cada uno de los siguientes números rectangulares a forma polar:
+
+- a) 40-j40
+- b) 50-j200
+- c) 35-j20
+- d) 98+j45
+
+![image](https://user-images.githubusercontent.com/104925648/220213653-e36c06e7-a591-4f41-b0a4-95ca2567101d.png)
+
+10.Exprese cada uno de los siguientes números polares utilizando un ángulo negativo para reemplazar al positivo
+
+- a) 10∠120°
+- b) 32∠85°
+- c) 5∠310°
+
+![image](https://user-images.githubusercontent.com/104925648/220214002-27a994dc-f88f-4123-888c-a59e224a9c00.png)
+
+12.Identifique el cuadrante en el cual se localiza cada uno de los puntos del problema 10.
+
+- a) 10∠120° → **Segundo Cuadrante**
+- b) 32∠85° → Primer Cuadrante**
+- c) 5∠310° → Cuarto Cuaddrante**
 
 
 
