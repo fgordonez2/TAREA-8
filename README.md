@@ -146,45 +146,109 @@ mayor que el voltaje a través del capacitor, la frecuencia
  20.En un circuito RC en paralelo, a través de la rama resistiva circula 1 A rms y 1 A rms pasa por la rama
 capacitiva. La corriente rms total es
  
+- a) 1 A
+- b) 2 A
+- c) 2.28 A
+- **d) 1.414 A** ←
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 22.Para cierta carga, la potencia real es de 100 W y la potencia reactiva de 100 VAR. La potencia aparente es de
+ 
+- a) 200 VA
+- b) 100 VA
+- **c) 141.4 VA** ←
+- d) 141.4 W
+ 
 ## Exámen rápido de dinámica de circuitos
 
-Consulte la figura 13-45.
+Consulte la figura 15-86.
 
-![image](https://user-images.githubusercontent.com/104925648/216997549-c5225fbf-dde5-48ee-a80e-7e5e0243a08e.png)
+![image](https://user-images.githubusercontent.com/104925648/220010160-3e8bd528-7710-4079-83a3-2cdba5f031d1.png)
 
-2.Si el interruptor se mueve de la posición 3 a la posición 4, la inductancia entre A y B
+2.Si R se abre, el voltaje a través de C
 
 - a) aumenta
 - b) **disminuye** ←
 - c) no cambia
+ 
+Consulte la figura 15-87.
 
+![image](https://user-images.githubusercontent.com/104925648/220010263-d2288472-9a16-4817-98c9-4b3c98f39918.png)
 
+4.Si R1 se abre, el voltaje a través de R2
 
-## Sección 13-1 El inductor básico
+- **a) aumenta** ←
+- b) disminuye
+- c) no cambia
+ 
+Consulte la figura 15-93.
+ 
+![image](https://user-images.githubusercontent.com/104925648/220010375-5ed43108-13df-43cf-980c-173312c28175.png)
 
-2.Convierta los siguientes valores en microhenries:
+6.Si R se abre, el voltaje a través del capacitor 
+ 
+- a) aumenta
+- b) disminuye
+- **c) no cambia** ←
 
-- a) 300 mH
-- b) 0.08 H
-- c) 5 mH
-- d) 0.00045 mH
+Consulte la figura 15-98.
+ 
+![image](https://user-images.githubusercontent.com/104925648/220010464-ca9498e7-2e13-47b0-a800-b2d69889a95a.png)
+
+8.Si R2 se abre, el voltaje del extremo superior de R2 a tierra
+ 
+- **a) aumenta** ←
+- b) disminuye
+- c) no cambia
+ 
+10.Si se incrementa la frecuencia del voltaje de fuente, la corriente a través de los resistores
+ 
+- a) aumenta
+- b) disminuye
+- **c) no cambia** ←
+ 
+Consulte la figura 15-103.
+ 
+![image](https://user-images.githubusercontent.com/104925648/220010662-b01717f1-cb10-4158-8881-c83bb9cece49.png)
+
+12.Si C3 se abre, el voltaje del punto B a tierra
+ 
+- **a) aumenta** ←
+- b) disminuye
+- c) no cambia
+ 
+14.Si se desarrolla un corto del punto C a tierra, el voltaje del punto A a tierra 
+ 
+- a) aumenta
+- b) **disminuye** ←
+- c) no cambia
+ 
+16.Si la frecuencia de la fuente se incrementa, el voltaje del punto C a tierra
+ 
+- a) aumenta
+- b) **disminuye** ←
+- c) no cambia
+ 
+18.Si R2 se pone en cortocircuito, el voltaje a través de C1
+ 
+- **a) aumenta** ←
+- b) disminuye
+- c) no cambia
+ 
+## PARTE 1: CIRCUITOS EN SERIE
+## Sección 15-1  El sistema de los números complejos
+
+2.Localice los siguientes números en el plano complejo:
+
+- a) +6
+- b) -2
+- c) +j3
+- d) -j8
+ 
+![image](https://user-images.githubusercontent.com/104925648/220011715-215f20c1-6aa3-48c6-83f2-642b765cd146.png)
+
+4.Determine las coordenadas de cada punto que tenga igual magnitud pero esté localizado a 180° de cada uno de los puntos del problema 3.
+ 
+
 
 
 ## Sección 13-4 Inductores en circuitos de cd
