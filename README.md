@@ -2,14 +2,15 @@
 ># 1. OBJETIVOS
 # General:
 
-- Comprender los conceptos de inductore y transformador, mediante la investigación de los capítulos 13 y 14 del libro "Principios de Circuitos Eléctricos" de Thomas Floyd, para desarrollar correctamente los ejercicios planteados con ayuda de los conocimientos adquiridos en clase.
+- Comprender los conceptos de circuitos RC y RL, mediante la investigación de los capítulos 15 y 16 del libro "Principios de Circuitos Eléctricos" de Thomas Floyd, y
+ bibliografía externa, para desarrollar correctamente los ejercicios planteados con ayuda de los conocimientos adquiridos en clase estudiados hasta el momento.
 
  # Específicos:
  
- - Determinar la inductancia equivalente de inductores enserie a partir de valores medidos
- - Calcular la reactancia inductiva en paralelo y serie apartir de las mediciones
- - Entender en qué consiste el fenómeno de la inducción electromagnética mediante la ley de Faraday la Ley de Lenz
- - Analizar el funcionamiento de un transformador
+ - Usar números complejos para expresar cantidades fasoriales
+ - Describir la relación entre corriente y voltaje en un circuito RC en serie
+ - Determinar la impedancia de un circuito RL en serie
+ - Localizar fallas en circuitos RC y RL
  
 ># 2. MARCO TEÓRICO (RESUMEN)
 Luego de una amplia consulta bibliográfica; he realizado mapas conceptuales y mentales en donde describo el resumen de
