@@ -296,13 +296,98 @@ Consulte la figura 15-103.
  
 ![image](https://user-images.githubusercontent.com/104925648/220214756-f001999e-b976-43a1-b318-c1845715b0c1.png)
 
- 16.
+16.Multiplique los siguientes números:
+ 
+![image](https://user-images.githubusercontent.com/104925648/220214974-26109463-7f27-4a37-9590-5a8e32489443.png)
+ 
+![image](https://user-images.githubusercontent.com/104925648/220220900-c7c07070-4e5a-42a4-bb7f-194174d54c29.png)
+
+18.Realice las siguientes operaciones: 
+
+![image](https://user-images.githubusercontent.com/104925648/220220957-10602bef-4d85-4dcb-a10e-c099a9e9f142.png)
+ 
+![image](https://user-images.githubusercontent.com/104925648/220223379-914cd186-e47e-4679-afb6-dfa2bd645131.png)
+
+![image](https://user-images.githubusercontent.com/104925648/220223415-fc352ad6-e562-4d22-b6d7-06cfe789e23d.png)
+
+## Sección 15-2 Respuesta sinusoidal de circuitos RC en serie
+ 
+20.¿Cuál es la forma de onda de la corriente en el circuito del problema 19?
+ 
+- Respuesta: **La corriente es senoidal**
+ 
+## Sección 15-3  Impedancia de circuitos RC en serie
+ 
+22.Determine la magnitud de la impedancia y el ángulo de fase en cada circuito de la figura 15-85.
+
+![image](https://user-images.githubusercontent.com/104925648/220223775-b22e8c64-c771-4e11-95fe-8796cc176866.png)
+
+![image](https://user-images.githubusercontent.com/104925648/220223914-6257206f-a90f-4b49-bba7-bb414875ec24.png)
+
+24.Repita el problema 23 con C 5 0.0047 mF.
+ 
+![image](https://user-images.githubusercontent.com/104925648/220224005-559f3b15-ffcd-4445-bf41-ce4e643828ce.png)
+
+## Sección 15-4 Inductores en circuitos de ca
+
+26.Exprese la corriente en forma polar para cada circuito de la figura 15-84.
+ 
+![image](https://user-images.githubusercontent.com/104925648/220224974-b04932d0-e1c4-428c-ab76-abbb432dc614.png)
+
+![image](https://user-images.githubusercontent.com/104925648/220224920-b7f2997e-e6f4-4255-8084-a1e91d633618.png)
+
+28.Determine el ángulo de fase entre el voltaje aplicado y la corriente para cada circuito de la figura 15-85.
+ 
+![image](https://user-images.githubusercontent.com/104925648/220225004-9e9699e2-e2f5-40f2-b5fe-babd25c6a4c3.png)
+
+![image](https://user-images.githubusercontent.com/104925648/220225209-357fca29-edec-46de-a724-85eec8d9abed.png)
+
+30.Para el circuito de la figura 15-87, trace el diagrama fasorial que muestre todos los voltajes y la corriente total. Indique los ángulos de fase
+ 
+![image](https://user-images.githubusercontent.com/104925648/220225267-a21ddc3b-50b9-4292-87b0-89a7ec692e7f.png)
+ 
+![image](https://user-images.githubusercontent.com/104925648/220225335-615310f4-cb48-40fe-b70f-70c1469704ec.png)
+
+32.¿A qué valor se debe ajustar el reóstato de la figura 15-89 para hacer que la corriente total sea de 10 mA?
+¿Cuál es el ángulo resultante?
+ 
+![image](https://user-images.githubusercontent.com/104925648/220225407-edb23ac2-a768-46ec-adb2-8db3256aa490.png)
+
+![image](https://user-images.githubusercontent.com/104925648/220226153-1d3a3185-d5b5-4191-86ce-205f4ad75f3d.png)
+
+34.Para el circuito de retraso de la figura 15-91, determine el desplazamiento de fase entre el voltaje de
+entrada y el voltaje de salida para cada una de las siguientes frecuencias:
+ 
+![image](https://user-images.githubusercontent.com/104925648/220226599-a1cd3d12-6a4a-4e39-9a1c-c85807a96d3d.png)
+
+![image](https://user-images.githubusercontent.com/104925648/220226643-ea932d26-c992-4f23-900c-28c67be9a49e.png)
+
+![image](https://user-images.githubusercontent.com/104925648/220226737-3b34de80-42f1-46be-893e-51c9ec345cc3.png)
 
 
 
-## Sección 13-4 Inductores en circuitos de cd
+ 
 
-## Sección 13-5 Inductores en circuitos de ca
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 # Resolución de ejercicios pares *CAPITULO 14*:
 
