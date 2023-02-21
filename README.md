@@ -631,43 +631,152 @@ Consulte la figura 16-73.
 4.Determine la magnitud de la impedancia y el ángulo de fase en cada circuito de la figura 16-55. Trace los diagramas de impedancia.
  
 ![image](https://user-images.githubusercontent.com/104925648/220246371-f78532c4-93c8-4a0e-b889-b162ad3ce1e7.png)
+ 
+![image](https://user-images.githubusercontent.com/104925648/220247112-b88fcfbe-35a5-43d6-b53e-7d175c896098.png)
 
+6.Determine los valores de R y XL en un circuito RL en serie con los siguientes valores de impedancia total:
+ 
+![image](https://user-images.githubusercontent.com/104925648/220247178-965525cf-2777-4d57-9bf8-60dd5878fbdc.png)
 
+![image](https://user-images.githubusercontent.com/104925648/220248392-6777ec9b-7c5a-4c51-965c-45593c2c2803.png)
  
+## Sección 16-3  Análisis de circuitos RL en serie
  
+8.Se aplica un voltaje sinusoidal de 5 V, 10 kHz al circuito de la figura 16-57. Calcule el voltaje a través
+de la resistencia total encontrada en el problema 7.
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+![image](https://user-images.githubusercontent.com/104925648/220248491-b97c4499-9d22-4b1a-b059-ac0cfe57d29f.png)
 
-## Sección 14-3 Transformadores elevadores y reductores
+![image](https://user-images.githubusercontent.com/104925648/220248555-6c69ad81-8834-4694-a8e1-07e636335c6f.png)
+ 
+10.Exprese la corriente en forma polar para cada circuito de la figura 16-54
+ 
+![image](https://user-images.githubusercontent.com/104925648/220248612-f788024f-2718-4c7d-a5ec-93a8ee0b5cf7.png)
+ 
+![image](https://user-images.githubusercontent.com/104925648/220249071-55d2bbbc-0ff8-4cfa-8887-2391f2b3a31b.png)
+ 
+12.Determine u para el circuito de la figura 16-58.
+ 
+![image](https://user-images.githubusercontent.com/104925648/220249127-e74dfd26-fd33-4421-b28d-de7e258c0cfe.png)
 
+![image](https://user-images.githubusercontent.com/104925648/220249469-a33d0559-2a0c-49bc-809f-9dc667f66b17.png)
+ 
+14.Trace las formas de onda de Vs, VR y VL en la figura 16-58. Muestre las relaciones de fase apropiadas.
+ 
+![image](https://user-images.githubusercontent.com/104925648/220249559-4c5dee09-cee5-4310-8880-b15c0170e73f.png)
+ 
+![image](https://user-images.githubusercontent.com/104925648/220249606-57c2fb75-3f19-4f9e-a2b4-daed2c47adef.png)
+ 
+16.Determine la magnitud y el ángulo de fase del voltaje de fuente en la figura 16-60
+ 
+![image](https://user-images.githubusercontent.com/104925648/220249653-360027a8-328c-47c3-b50f-d962b42835c4.png)
+ 
+![image](https://user-images.githubusercontent.com/104925648/220249943-b18708c9-50a3-4260-81c6-629193f6b36d.png)
+ 
+18.Repita el problema 17 para el circuito de adelanto para encontrar el adelanto de fase en la figura 16-62.
+ 
+![image](https://user-images.githubusercontent.com/104925648/220250192-93ea8f6c-fe83-4dd8-9fc0-112a76670f4e.png)
 
-## Sección 14-4 Carga del devanado secundario
+![image](https://user-images.githubusercontent.com/104925648/220250242-9d24cf29-64ff-4170-90d3-a391c0ad34a5.png)
+
+## PARTE 2: PARTE 2 CIRCUITOS EN PARALELO
+## Sección 16-4 Impedancia y admitancia de circuitos RL en paralelo
+ 
+20.Repita el problema 19 para las siguientes frecuencias:
+ 
+- a) 1.5 kHz
+- b) 3 kHz
+- c) 3 kHz
+- d) 10 kHz
+ 
+![image](https://user-images.githubusercontent.com/104925648/220250511-bca41b88-646a-4c1b-8dfe-09c50f656b42.png)
+
+## Sección 16-5 Análisis de circuitos RL en paralelo
+ 
+22.Encuentre la corriente total y cada corriente de rama en la figura 16-64.
+ 
+![image](https://user-images.githubusercontent.com/104925648/220250881-9b7fca68-a419-45e8-abce-82fb3993d339.png)
+ 
+![image](https://user-images.githubusercontent.com/104925648/220251283-724940d6-8a96-4d44-bcdb-41074b3f980d.png)
+ 
+24.Repita el problema 23 para R = 56 ohm y L = 330 uH
+ 
+![image](https://user-images.githubusercontent.com/104925648/220251374-af7d16a4-2d21-4e62-b797-c298b1e93476.png)
+
+![image](https://user-images.githubusercontent.com/104925648/220251437-e5df1daa-dae4-4bce-b647-18fc2bfbcf43.png)
+ 
+26.Determine la magnitud y el ángulo de fase de la corriente total que aparece en la figura 16-67.
+ 
+![image](https://user-images.githubusercontent.com/104925648/220251489-7d23faab-b957-41fc-b306-041d18210b20.png)
+ 
+![image](https://user-images.githubusercontent.com/104925648/220252053-197e6dfe-6623-4497-9f56-8368f1fb39ef.png)
+
+## PARTE 3:  CIRCUITOS EN SERIE-PARALELO
+## Sección 16-6 Análisis de circuitos RL en serie-paralelo
+ 
+28.¿Es el circuito de la figura 16-68 predominantemente resistivo o predominantemente inductivo?
+ 
+![image](https://user-images.githubusercontent.com/104925648/220252189-ae689fbe-0d39-4345-87e2-617af700d8a4.png)
+
+![image](https://user-images.githubusercontent.com/104925648/220252252-09dae7c6-55d9-44bb-be8f-4db4481cbf09.png)
+
+30.Para el circuito de la figura 16-69, determine lo siguiente:
+ 
+![image](https://user-images.githubusercontent.com/104925648/220252306-38ab4965-4f5b-42d1-bfa5-01e98c7c77c5.png)
+
+![image](https://user-images.githubusercontent.com/104925648/220252401-66a5ea65-6e09-4593-8943-2cef0e03f17a.png)
+
+32.Trace el diagrama fasorial de los voltajes y las corrientes que aparecen en la figura 16-70.
+ 
+![image](https://user-images.githubusercontent.com/104925648/220252448-c193f52f-7945-4cb3-97e6-30c40df501a2.png)
+
+![image](https://user-images.githubusercontent.com/104925648/220252688-43958a4c-dec9-4e1d-ba32-40823a854a24.png)
+
+34.Determine el desplazamiento de fase y la atenuación desde la entrada hasta la salida para la red en configuración de escalera de la figura 16-72
+ 
+![image](https://user-images.githubusercontent.com/104925648/220252749-0b27ad99-ca65-4386-8ea6-6812b600aaad.png)
+ 
+![image](https://user-images.githubusercontent.com/104925648/220254174-88548b1a-7499-4ad1-aa56-8a3f5741ac4f.png)
+ 
+## PARTE 4: TEMAS ESPECIALES
+## Sección 16-7 Potencia en circuitos RL
+ 
+36.En cierto circuito RL, la potencia verdadera es de 100 mW, y la potencia reactiva de 340 mVAR. ¿Cuál es la potencia aparente?
+ 
+![image](https://user-images.githubusercontent.com/104925648/220254659-11ad2eca-e979-4ec0-ad06-09502d077e10.png)
+ 
+38.¿Cuál es el factor de potencia en la figura 16-64?
+ 
+![image](https://user-images.githubusercontent.com/104925648/220254736-af6a1757-8699-434f-9f79-f85dce9365d7.png)
+ 
+![image](https://user-images.githubusercontent.com/104925648/220254980-2bf6fe55-f175-4fef-bb81-f3c58bc1e8fb.png)
+
+40.Determine la potencia verdadera para el circuito de la figura 16-70.
+ 
+![image](https://user-images.githubusercontent.com/104925648/220255094-68ccb558-6109-4ac4-9e9f-c49fbdb3b42a.png)
+ 
+![image](https://user-images.githubusercontent.com/104925648/220255586-1c79a04e-342f-4a6a-ad3f-6700730053f0.png)
+ 
+## Sección 16-8 Aplicaciones básicas
+ 
+42.Con el mismo procedimiento del problema 41, trace la curva de respuesta para la figura 16-62.
+ 
+![image](https://user-images.githubusercontent.com/104925648/220255737-645814fa-db71-421b-ab08-051265bed8e5.png)
+ 
+![image](https://user-images.githubusercontent.com/104925648/220256319-3f00d858-dbcc-486c-a7ed-cc364c4c1ad5.png)
+ 
+## Sección 16-9 Localización de fallas
+ 
+44.Determine el voltaje a través de cada componente mostrado en la figura 16-73 si L1 está abierto.
+ 
+![image](https://user-images.githubusercontent.com/104925648/220256454-b26ef428-077b-4466-b7c5-7d516ee5d680.png)
+ 
+![image](https://user-images.githubusercontent.com/104925648/220256641-5f6fc049-aaa4-467c-a1a4-0a4003a657f9.png)
 
 ># 4. VÍDEO
 
 ># 5. CONCLUSIONES
 
-- En esta tarea aprendi que es un inductor y de como se compone, del material que esta hecho y lo que mas se me llamo la atención fue de que existen
-  inductores en serie y paralelo y siempre estará alambrado a diferencia de los circuitos normales.
-- La medida en la que un inductor se opone al cambio en la intensidad de la corriente que circula por él se denomina inductancia.
-- A mayor cantidad de espiras enrolladas la inductancia es mayor. Si además se agrega un núcleo ferro-magnético, la inductancia también aumenta. 
-  El valor de la inductancia está dado por la expresión:
-- La diferencia principal que hay entre el transformador ideal y el real, es que en el transformador ideal no se consideran ningún tipo de perdidas
- y en el transformador real se consideran las pérdidas, como las de dispersión, las   de   las   bobinas   (cobre)   y   las   del   núcleo.
-- El transformador es un dispositivo que cambia de voltaje de un circuito a otro a través de la inducción electromagnética, sirven para aumentar o 
-  disminuir latensión que viene de la sub-estación. Existen diferentes tipos y capacidades de transformadores como por ejemplo, transformadores de 
-  corriente personalizada, de alta tensión, eléctricos, de audio, depotencia, entre otros.
-  
 ># 6. BIBLIOGRAFÍA
 
 - FLOYD, THOMAS L. Principios de circuitos eléctricos. Octava edición. PEARSON EDUCACIÓN, México, 2007
