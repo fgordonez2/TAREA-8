@@ -364,6 +364,158 @@ entrada y el voltaje de salida para cada una de las siguientes frecuencias:
 
 ![image](https://user-images.githubusercontent.com/104925648/220226737-3b34de80-42f1-46be-893e-51c9ec345cc3.png)
 
+36.Repita el problema 34 para el circuito de adelanto de la figura 15-92.
+
+![image](https://user-images.githubusercontent.com/104925648/220226967-0127e8d5-4f44-4699-8424-f1ebdc9235f7.png)
+ 
+![image](https://user-images.githubusercontent.com/104925648/220227778-e57cb725-fc79-42ae-a514-5a833ce73adf.png)
+ 
+38.Trace el diagrama fasorial de voltaje para el circuito de la figura 15-91 para una frecuencia de 5 kHz
+con Vs 5 1 V rms. 
+ 
+![image](https://user-images.githubusercontent.com/104925648/220227840-e2150d94-bf4f-4660-b338-17ba91d53f29.png)
+
+![image](https://user-images.githubusercontent.com/104925648/220228180-c5ff359f-1349-4d38-bc13-cd150d2fe2e4.png)
+
+## PARTE 2: CIRCUITOS EN PARALELO
+## Sección 15-5 Impedancia y admitancia de circuitos RC en paralelo 
+ 
+40.Determine la impedancia y exprésela en forma polar para el circuito de la figura 15-93.
+ 
+![image](https://user-images.githubusercontent.com/104925648/220232714-cf34295b-c46f-4014-af6f-2ea5a0b317ec.png)
+
+![image](https://user-images.githubusercontent.com/104925648/220233261-b7633a25-ec75-4a5a-88b8-ecc4b9ea416a.png)
+
+42.Repita el problema 41 para las siguientes frecuencias:
+ 
+![image](https://user-images.githubusercontent.com/104925648/220233316-a3c01525-ed73-4663-ab7d-dc4f18366192.png)
+ 
+![image](https://user-images.githubusercontent.com/104925648/220233354-435f87a4-9d26-4968-8c02-a94aa474e501.png)
+
+![image](https://user-images.githubusercontent.com/104925648/220234071-8f4ca90a-eced-4cc7-a3a6-bd16fe0fd83e.png)
+
+## Sección 15-6 Análisis de circuitos RC en paralelo
+ 
+44.Para el circuito en paralelo de la figura 15-96, encuentre la magnitud de cada corriente de rama y la corriente total. 
+ ¿Cuál es el ángulo de fase entre el voltaje aplicado y la corriente total?
+ 
+![image](https://user-images.githubusercontent.com/104925648/220234618-68c32a6c-40b3-4022-a5cc-6aa6e4b951f3.png)
+
+![image](https://user-images.githubusercontent.com/104925648/220235715-73d8c51b-4a5d-4e7e-923f-3c4a1514278a.png)
+
+46.
+ 
+![image](https://user-images.githubusercontent.com/104925648/220235817-520dd393-f56e-46e5-9e89-4a26fa9ad138.png)
+ 
+![image](https://user-images.githubusercontent.com/104925648/220235874-2cad33e0-dd5f-4680-ae6f-ab31016de7bb.png)
+
+![image](https://user-images.githubusercontent.com/104925648/220237258-d4a54087-f449-40d1-8066-7ced69108bd0.png)
+
+48.Determine el valor al cual R1 debe ser ajustado para obtener un ángulo de fase de 30° entre el voltaje
+de fuente y la corriente total en la figura 15-99.
+ 
+![image](https://user-images.githubusercontent.com/104925648/220237307-e1e1e1aa-0107-4bc7-b6ba-4e79ffdd748a.png)
+ 
+![image](https://user-images.githubusercontent.com/104925648/220238099-52bb3fc3-839b-40c8-9c88-b3ecc55f120b.png)
+
+## PARTE 3: CIRCUITOS EN SERIE-PARALELO
+## Sección 15-7 Análisis de circuitos RC en serie-paralelo
+ 
+50.¿Es el circuito de la figura 15-100 predominantemente resistivo o predominantemente capacitivo?
+ 
+![image](https://user-images.githubusercontent.com/104925648/220238280-817761ae-eb6d-41f7-91d0-2100f2fd2173.png)
+
+![image](https://user-images.githubusercontent.com/104925648/220239107-14a457e7-f6ae-42dc-9585-9ed54e621fb8.png)
+
+52.Para el circuito de la figura 15-101, determine lo siguiente:
+ 
+![image](https://user-images.githubusercontent.com/104925648/220239154-aed0aecd-85b4-4abb-b4e0-835a24f6341f.png)
+ 
+![image](https://user-images.githubusercontent.com/104925648/220239189-dbe37e7f-f745-479d-b415-4da3a0f28501.png)
+
+![image](https://user-images.githubusercontent.com/104925648/220239255-da1e96e0-a4c2-4a5e-b516-b171090795c3.png)
+
+54.Determine el voltaje y su ángulo de fase en cada punto rotulado en la figura 15-103. 
+ 
+![image](https://user-images.githubusercontent.com/104925648/220239300-c3f3f4b9-85db-4565-95a7-25ce54932f37.png)
+
+![image](https://user-images.githubusercontent.com/104925648/220239392-092a3998-ff5d-47d9-997f-84785c9fc4a6.png)
+ 
+56.Trace el diagrama fasorial de voltaje y corriente para la figura 15-103.
+ 
+![image](https://user-images.githubusercontent.com/104925648/220239469-f5392f6f-ee31-4f1f-ba07-f784bf852519.png)
+
+![image](https://user-images.githubusercontent.com/104925648/220239995-c65ca4c4-f658-4a0b-926c-6b5b828b8b26.png)
+
+## PARTE 4: TEMAS ESPECIALES
+## Sección 15-8 Potencia en circuitos RC
+ 
+58.En la figura 15-88, ¿cuáles son la potencia real y la potencia reactiva?
+ 
+![image](https://user-images.githubusercontent.com/104925648/220240383-6ac6ea6d-c9d8-4de7-b1d8-fb943ca68c1c.png)
+
+![image](https://user-images.githubusercontent.com/104925648/220240805-18739998-abd3-4927-bb92-94b0bac6cfc0.png)
+
+60.
+ 
+![image](https://user-images.githubusercontent.com/104925648/220241073-f494c71f-b97d-42df-8eac-2d01ed329f13.png)
+
+![image](https://user-images.githubusercontent.com/104925648/220241132-1e6cb873-b83b-4f5e-a071-2e7a4fe2c433.png)
+
+## Sección 15-9 Aplicaciones básicas
+ 
+62.Calcule la frecuencia de oscilación para el circuito de la figura 15-62 si todos los capacitores son de
+0.0022 uF y todos los resistores de 10 kohm.
+ 
+![image](https://user-images.githubusercontent.com/104925648/220241287-c2a6e992-fe77-44c1-b00d-3a9fbe273cc7.png)
+
+![image](https://user-images.githubusercontent.com/104925648/220241522-e7bfe999-4223-4b06-968f-80ee74c99943.png)
+
+64.El valor rms del voltaje de señal que sale del amplificador A en la figura 15-105 es de 50 mV. Si la resistencia de entrada al 
+amplificador B es de 10 kohm, ¿qué tanto de la señal se pierde debido al capacitor
+de acoplamiento cuando la frecuencia es de 3 kHz?
+
+![image](https://user-images.githubusercontent.com/104925648/220241610-850a3a81-1c29-4156-a441-e1756e5d0223.png)
+
+![image](https://user-images.githubusercontent.com/104925648/220241964-0b1589e8-52a6-4dfd-8525-af7da92adcf0.png)
+ 
+## Sección 15-10 Localización de fallas
+ 
+66.Los capacitores de la figura 15-107 han desarrollado un resistencia de fuga de 2 kohm. Determine los voltajes de salida en esta condición para cada circuito
+ 
+![image](https://user-images.githubusercontent.com/104925648/220242110-75d7f933-c23b-423c-9f19-4b51b81806b2.png)
+
+![image](https://user-images.githubusercontent.com/104925648/220242557-1fc93c62-ec1b-42e3-ad2d-ae0b70bbceec.png)
+ 
+68.Determine el voltaje de salida para el circuito de la figura 15-107(b) para cada uno de los siguientes
+modos de falla, y compárelo con la salida correcta:
+ 
+![image](https://user-images.githubusercontent.com/104925648/220242648-0f76d271-c3bb-46f2-aed8-46f69bc63117.png)
+ 
+![image](https://user-images.githubusercontent.com/104925648/220242686-8c2e94ad-0ce9-4e7c-9ab8-4f12bbfdb7da.png)
+ 
+![image](https://user-images.githubusercontent.com/104925648/220243466-6c26aec0-0f59-4cff-a55a-a236cd87e874.png)
+ 
+# Resolución de ejercicios pares *CAPITULO 16*:
+
+## Autoevaluación:
+
+
+ 
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+ 
+
 
 
  
