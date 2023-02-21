@@ -500,73 +500,153 @@ modos de falla, y compárelo con la salida correcta:
 
 ## Autoevaluación:
 
+2.Cuando la frecuencia del voltaje aplicado a un circuito RL en serie se incrementa, la impedancia
+ 
+- a) disminuye
+- **b) aumenta** ←
+- c) no cambia
+ 
+4.Si la frecuencia se duplica y la resistencia es reducida a la mitad, la impedancia de un circuito RL en serie
+ 
+- a) se duplica
+- b) se reduce a la mitad
+- c) permanece constante
+- **d) no puede determinarse sin valores** ←
+ 
+6.En un circuito RL en serie, se miden 10 V rms entre las terminales del resistor y 10 V rms entre las del
+inductor. El valor pico del voltaje de fuente es de:
+ 
+- a) 14.4 V
+- b) 28.28 V
+- c) 10 V
+- **d) 20 V** ←
 
+8.Cuando en un circuito RL en serie el voltaje entre las terminales de un resistor llega a ser más grande
+que el voltaje del inductor, el ángulo de fase
  
-
-
-
-
-
-
-
+- a) aumenta
+- **b) disminuye** ←
+- c) no se ve afectado
  
+10.En un circuito RL en paralelo, hay 2 A rms en la rama resistiva y 2 A rms en la rama inductiva. La corriente rms total es de 
  
-
-
-
+- a) 4 A
+- b) 5.656 A
+- c) 2 A
+- **d) 2.828 A** ←
  
-
-
-
+12.¿Cuál de los siguientes factores de potencia propicia que menos energía se convierta en calor en un circuito RL?
  
-
+- a) 1
+- b) 0.9
+- c) 0.5
+- **d) 0.1** ←
  
+14.Para cierta carga, la potencia real es de 10 W y la potencia reactiva es de 10 VAR, la potencia aparente es de
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-# Resolución de ejercicios pares *CAPITULO 14*:
-
-## Autoevaluación:
-
-2.¿Cuál de los siguientes voltajes se ve afectado por la relación de vueltas de un transformador?
-
-- a) voltaje primario
-- b) voltaje de cd
-- c) **voltaje secundario** ←
-- d) ninguno de éstos
-
+- a) 5 VA
+- b) 20 VA
+- **c) 14.14 VA** ←
+- d) 100 VA
 
 ## Exámen rápido de dinámica de circuitos
+ 
+Consulte la figura 16-56.
+ 
+![image](https://user-images.githubusercontent.com/104925648/220245432-e3e7cd3a-b9df-4f89-a7cd-96d5911347b9.png)
 
-Consulte la figura 14-43(c).
+2.Si R se abre, el voltaje a través de L
 
-![image](https://user-images.githubusercontent.com/104925648/217024637-9453f1c1-0f41-4d00-9bd3-ecc8d713b579.png)
-
-2.Si la fuente de cd se pone en cortocircuito, el voltaje a través de RL
-
+- a) aumenta
+- b) **disminuye** ←
+- c) no cambia
+ 
+Consulte la figura 16-63.
+ 
+![image](https://user-images.githubusercontent.com/104925648/220245554-d20a4540-ec63-4913-8cb5-4ae46afc7a13.png)
+ 
+4.Si L se abre, el voltaje a través de R
+ 
 - a) aumenta
 - b) disminuye
 - c) **no cambia** ←
+ 
+Consulte la figura 16-69.
+ 
+![image](https://user-images.githubusercontent.com/104925648/220245651-33c8ce53-3ba8-433d-a5c4-26c178583ab5.png)
+ 
+6.Si R1 se abre, la corriente a través de L1
+ 
+- a) aumenta
+- b) disminuye
+- c) **no cambia** ←
+ 
+Consulte la figura 16-70.
+ 
+![image](https://user-images.githubusercontent.com/104925648/220245746-10f0e0dd-0ec3-41af-aedb-843a4e41d195.png)
+
+8.Si L2 se abre, el voltaje desde el punto B hasta tierra
+ 
+- a) aumenta
+- b) disminuye
+- c) **no cambia** ←
+ 
+10.Si la frecuencia del voltaje de fuente se incrementa, la corriente a través de R1
+ 
+- a) aumenta
+- b) **disminuye** ←
+- c) no cambia
+ 
+Consulte la figura 16-73.
+ 
+![image](https://user-images.githubusercontent.com/104925648/220245901-8268a7fe-1e83-4cdb-a0f2-d0398ddb0d88.png)
+ 
+12.Si L2 se abre, el voltaje a través de L1
+ 
+- a) aumenta
+- b) **disminuye** ←
+- c) no cambia
+ 
+14.Si R3 se abre, el voltaje de salida
+ 
+- a) **aumenta** ←
+- b) disminuye
+- c) no cambia
+ 
+16.Si la frecuencia de la fuente se incrementa, el voltaje de salida
+ 
+- a) aumenta
+- b) **disminuye** ←
+- c) no cambia
+ 
+## PARTE 1: CIRCUITOS EN SERIE
+## Sección 16-1 Respuesta sinusoidal de circuitos RL en serie
+ 
+2.¿Cuáles son las formas de onda de I, VR y VL en el problema 1?
+ 
+- Respuesta: **I, Vr y Vl son ondas de forma sinusoidal**
+ 
+## Sección 16-2  Impedancia de circuitos RL en serie
+ 
+4.Determine la magnitud de la impedancia y el ángulo de fase en cada circuito de la figura 16-55. Trace los diagramas de impedancia.
+ 
+![image](https://user-images.githubusercontent.com/104925648/220246371-f78532c4-93c8-4a0e-b889-b162ad3ce1e7.png)
 
 
-## Sección 14-2  El transformador básico
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 ## Sección 14-3 Transformadores elevadores y reductores
 
