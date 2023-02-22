@@ -775,7 +775,22 @@ de la resistencia total encontrada en el problema 7.
 
 ># 4. VÍDEO
 
+https://youtu.be/1WXWPgxtJgs
+
 ># 5. CONCLUSIONES
+
+- El circuito RC tiene miles de usos y es un circuito muy importante para estudiar. No solo se puede utilizar para cronometrar circuitos, 
+sino también para filtrar frecuencias no deseadas en un circuito y se utiliza en fuentes de alimentación, como la de su computadora, para ayudar a 
+convertir el voltaje ac en dc.
+
+- Los circuitos que contienen elementos que almacenan energía, capacitores e inductores, se representan con ecuaciones diferenciales en 
+lugar de ecuaciones algebraicas. El análisis de estos circuitos requiere la solución de ecuaciones diferenciales.
+
+- Se puede usar circuitos equivalentes de Thévenin y Norton para reducir el problema de analizar un circuito de primer orden al problema de 
+analizar uno de dos circuitos sencillos de primer orden.
+
+- En esta nota de aplicación de variable compleja, se intenta familiarizar al lector en el uso de fasores para  la resolución de fenómenos físicos y eléctricos. 
+Observamos la versatilidad de cambiar funciones  trigonométricas por complejos, para resolver circuitos RLC y movimiento armónico simple.
 
 ># 6. BIBLIOGRAFÍA
 
